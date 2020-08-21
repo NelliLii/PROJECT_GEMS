@@ -1,0 +1,27 @@
+﻿  Game.cpp
+D:\GEMS_V\GEMS_V\Game.cpp(54,26): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+D:\GEMS_V\GEMS_V\Game.cpp(95,24): warning C4244: аргумент: преобразование "const float" в "unsigned int", возможна потеря данных
+  PlayingField.cpp
+D:\GEMS_V\GEMS_V\PlayingField.cpp(143,27): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\GEMS_V\GEMS_V\PlayingField.cpp(144,27): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\GEMS_V\GEMS_V\PlayingField.cpp(151,39): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+D:\GEMS_V\GEMS_V\PlayingField.cpp(152,39): warning C4244: =: преобразование "float" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+  main.cpp
+  Создание кода...
+  GEMS_V.vcxproj -> D:\GEMS_V\x64\Debug\GEMS_V.exe
